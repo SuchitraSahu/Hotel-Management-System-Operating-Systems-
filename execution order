@@ -1,0 +1,32 @@
+switch all ./<>
+
+hm => tables =
+
+waiter => waiter id = 
+
+table => table no. =
+         no. of cust = 2
+         (menu opens)
+         (order)
+
+waiter => bill
+          
+hm => earnings
+
+admin => close or not
+
+(depending on that continues) 
+{
+    if(closes)
+    {
+        then u get earnings part in hm
+    }
+    else
+    {
+        you gotta go to num of tables again
+    }
+}
+
+
+
+
